@@ -1,6 +1,8 @@
-
+#Calculate Gross pay
 """
 Code to calculate gross pay
+Author:Vincent
+Date:18th May 2024
 """
 hours =35
 rate_per_hour=2.75
