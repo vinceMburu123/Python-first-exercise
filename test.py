@@ -11,7 +11,7 @@ names = list(set(names))
 names.sort()
 
 # Print the sorted list without duplicates
-print("Sorted list of names (without duplicates):", names)
+print("Sorted list of names ", names)
 
 #
 length =len(names)
